@@ -12,6 +12,7 @@ export ICON=/usr/share/icons/hicolor/256x256/apps/denise.png
 export DESKTOP=/usr/share/applications/denise.desktop
 export STARTUPWMCLASS=Denise
 export DEPLOY_OPENGL=1
+export DEPLOY_VULKAN=1
 export DEPLOY_GTK=1
 
 # Deploy dependencies
