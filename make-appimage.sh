@@ -10,7 +10,8 @@ export ADD_HOOKS="self-updater.hook"
 export UPINFO="gh-releases-zsync|${GITHUB_REPOSITORY%/*}|${GITHUB_REPOSITORY#*/}|latest|*$ARCH.AppImage.zsync"
 export ICON=/usr/share/icons/hicolor/256x256/apps/denise.png
 export DESKTOP=/usr/share/applications/denise.desktop
-export STARTUPWMCLASS=
+export STARTUPWMCLASS=Denise
+export DEPLOY_OPENGL=1
 export DEPLOY_GTK=1
 
 # Deploy dependencies
