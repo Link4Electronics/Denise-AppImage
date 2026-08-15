@@ -7,13 +7,13 @@
 [![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/Denise-AppImage)](https://github.com/pkgforge-dev/Denise-AppImage/releases/latest)
 
 <p align="center">
-  <img src="https://bitbucket.org/piciji/denise/raw/092eaae533ecd5ca773f8e5f6d6ff403a7f02011/data/img/denise_1024.png" width="128" />
+  <img src="https://a.fsdn.com/allura/p/deniseemu/icon?1778524674?&w=90" width="128" />
 </p>
 
 
 | Latest Stable Release | Upstream URL |
 | :---: | :---: |
-| [Click here](https://github.com/pkgforge-dev/Denise-AppImage/releases/latest) | [Click here](https://bitbucket.org/piciji/denise/src/master) |
+| [Click here](https://github.com/pkgforge-dev/Denise-AppImage/releases/latest) | [Click here](https://sourceforge.net/projects/deniseemu/) |
 
 </div>
 
